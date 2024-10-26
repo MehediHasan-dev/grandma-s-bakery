@@ -1,0 +1,523 @@
+{
+    "title": "Sample JSON File",
+    "version": "1.0",
+    "items": [
+        {
+            "id": 1,
+            "name": "Brioche Bread",
+            "alt": "Soft and buttery brioche loaf with a light, fluffy texture",
+            "price": 25.5,
+            "available": true,
+            "categories": "bread",
+            "img": "./assets/images/all-item/img-1.png",
+            "recommended": true
+        },
+        {
+            "id": 2,
+            "name": "Whole Wheat Bread",
+            "alt": "A hearty whole wheat bread loaf, perfect for healthy sandwiches.",
+            "price": 25.5,
+            "available": true,
+            "categories": "bread",
+            "img": "./assets/images/all-item/img-2.png"
+        },
+        {
+            "id": 3,
+            "name": "Baguette",
+            "alt": "A classic French baguette with a crisp crust and soft inside.",
+            "price": 25.5,
+            "available": true,
+            "categories": "bread",
+            "img": "./assets/images/all-item/img-3.png"
+        },
+        {
+            "id": 4,
+            "name": "Ciabatta Bread",
+            "alt": "Rustic ciabatta bread with large airy holes and a golden crust.",
+            "price": 30.0,
+            "available": false,
+            "categories": "bread",
+            "img": "./assets/images/all-item/img-4.png"
+        },
+        {
+            "id": 5,
+            "name": "Pita Bread",
+            "alt": "A stack of fluffy pita bread rounds, perfect for dipping",
+            "price": 30.0,
+            "available": true,
+            "categories": "bread",
+            "img": "./assets/images/all-item/img-5.png",
+            "recommended": true
+        },
+        {
+            "id": 6,
+            "name": "Focaccia Bread",
+            "alt": "Italian focaccia bread topped with olive oil and rosemary",
+            "price": 20.0,
+            "available": true,
+            "categories": "bread",
+            "img": "./assets/images/all-item/img-6.png"
+        },
+        {
+            "id": 7,
+            "name": "Sourdough Bread",
+            "alt": "A freshly baked sourdough loaf with a crispy golden crust",
+            "price": 20.0,
+            "available": true,
+            "categories": "bread",
+            "img": "./assets/images/all-item/img-7.png"
+        },
+        {
+            "id": 8,
+            "name": "Multigrain Bread",
+            "alt": "A loaf of multigrain bread loaded with seeds and grains",
+            "price": 35.0,
+            "available": false,
+            "categories": "bread",
+            "img": "./assets/images/all-item/img-8.png",
+            "recommended": true
+        },
+        {
+            "id": 9,
+            "name": "Challah Bread",
+            "alt": "Traditional braided challah bread with a shiny golden glaze",
+            "price": 35.0,
+            "available": true,
+            "categories": "bread",
+            "img": "./assets/images/all-item/img-9.png"
+        },
+        {
+            "id": 10,
+            "name": "Rye Bread",
+            "alt": "Dense and flavorful rye bread, ideal for savory toppings",
+            "price": 40.0,
+            "available": true,
+            "categories": "bread",
+            "img": "./assets/images/all-item/img-10.png"
+        },
+        {
+            "id": 11,
+            "name": "Naan Bread",
+            "alt": "Soft and chewy naan bread, freshly baked with a light char",
+            "price": 40.0,
+            "available": true,
+            "categories": "bread",
+            "img": "./assets/images/all-item/img-11.png"
+        },
+        {
+            "id": 12,
+            "name": "Bagel",
+            "alt": "A classic golden bagel with a shiny, firm crust and soft interior",
+            "price": 45.0,
+            "available": false,
+            "categories": "bread",
+            "img": "./assets/images/all-item/img-12.png"
+        },
+        {
+            "id": 13,
+            "name": "Chocolate Chip Cookies",
+            "alt": "A stack of freshly baked chocolate chip cookies with gooey chocolate chunks.",
+            "price": 45.0,
+            "available": true,
+            "categories": "cookies",
+            "img": "./assets/images/all-item/img-13.png"
+        },
+        {
+            "id": 14,
+            "name": "Oatmeal Raisin Cookies",
+            "alt": "Oatmeal raisin cookies with a golden, chewy texture and plump raisins.",
+            "price": 50.0,
+            "available": true,
+            "categories": "cookies",
+            "img": "./assets/images/all-item/img-14.png"
+        },
+        {
+            "id": 15,
+            "name": "Sugar Cookies",
+            "alt": "Delicate sugar cookies with a soft center and sprinkled with fine sugar crystals.",
+            "price": 50.0,
+            "available": true,
+            "categories": "cookies",
+            "img": "./assets/images/all-item/img-15.png"
+        },
+        {
+            "id": 16,
+            "name": "Peanut Butter Cookies",
+            "alt": "Classic peanut butter cookies with crisscross fork marks and a golden-brown finish.",
+            "price": 55.0,
+            "available": false,
+            "categories": "cookies",
+            "img": "./assets/images/all-item/img-16.png"
+        },
+        {
+            "id": 17,
+            "name": "Snickerdoodle Cookies",
+            "alt": "Snickerdoodle cookies dusted with cinnamon sugar and a soft, chewy bite.",
+            "price": 55.0,
+            "available": true,
+            "categories": "cookies",
+            "img": "./assets/images/all-item/img-17.png"
+        },
+        {
+            "id": 18,
+            "name": "Double Chocolate Cookies",
+            "alt": "Rich double chocolate cookies with a fudgy center and chocolate chunks.",
+            "price": 60.0,
+            "available": true,
+            "categories": "cookies",
+            "img": "./assets/images/all-item/img-18.png"
+        },
+        {
+            "id": 19,
+            "name": "Macadamia Nut Cookies",
+            "alt": "Buttery macadamia nut cookies with white chocolate chips and crunchy nuts.",
+            "price": 60.0,
+            "available": true,
+            "categories": "cookies",
+            "img": "./assets/images/all-item/img-19.png"
+        },
+        {
+            "id": 20,
+            "name": "Gingerbread Cookies",
+            "alt": "Spiced gingerbread cookies shaped like gingerbread men with festive decorations.",
+            "price": 65.0,
+            "available": false,
+            "categories": "cookies",
+            "img": "./assets/images/all-item/img-20.png"
+        },
+        {
+            "id": 21,
+            "name": "Vanilla Macaron",
+            "alt": "A delicate vanilla macaron with a creamy white filling.",
+            "price": 65.0,
+            "available": true,
+            "categories": "macron",
+            "img": "./assets/images/all-item/img-21.png"
+        },
+        {
+            "id": 22,
+            "name": "Raspberry Macaron",
+            "alt": "A bright pink raspberry macaron with a sweet, tangy filling.",
+            "price": 70.0,
+            "available": true,
+            "categories": "macron",
+            "img": "./assets/images/all-item/img-22.png"
+        },
+        {
+            "id": 23,
+            "name": "Chocolate Macaron",
+            "alt": "A rich chocolate macaron with a smooth ganache filling.",
+            "price": 70.0,
+            "available": true,
+            "categories": "macron",
+            "img": "./assets/images/all-item/img-23.png"
+        },
+        {
+            "id": 24,
+            "name": "Pistachio Macaron",
+            "alt": "A light green pistachio macaron with a nutty, creamy filling.",
+            "price": 75.0,
+            "available": false,
+            "categories": "macron",
+            "img": "./assets/images/all-item/img-24.png"
+        },
+        {
+            "id": 25,
+            "name": "Lemon Macaron",
+            "alt": "A vibrant yellow lemon macaron with a zesty citrus filling",
+            "price": 75.0,
+            "available": true,
+            "categories": "macron",
+            "img": "./assets/images/all-item/img-25.png"
+        },
+        {
+            "id": 26,
+            "name": "Lavender Macaron",
+            "alt": "A lavender macaron with a floral, sweet filling and soft pastel color.",
+            "price": 80.0,
+            "available": true,
+            "categories": "macron",
+            "img": "./assets/images/all-item/img-26.png"
+        },
+        {
+            "id": 27,
+            "name": "Classic Soft Pretzel",
+            "alt": "A golden-brown classic soft pretzel twisted and sprinkled with coarse salt.",
+            "price": 80.0,
+            "available": true,
+            "categories": "pretzel",
+            "img": "./assets/images/all-item/img-27.png"
+        },
+        {
+            "id": 28,
+            "name": "Cinnamon Sugar Pretzel",
+            "alt": "A warm, soft pretzel dusted with cinnamon sugar for a sweet treat.",
+            "price": 85.0,
+            "available": false,
+            "categories": "pretzel",
+            "img": "./assets/images/all-item/img-28.png"
+        },
+        {
+            "id": 29,
+            "name": "Cheddar-Stuffed Pretzel",
+            "alt": "A savory pretzel coated in garlic butter and sprinkled with parmesan cheese.",
+            "price": 85.0,
+            "available": true,
+            "categories": "pretzel",
+            "img": "./assets/images/all-item/img-29.png"
+        },
+        {
+            "id": 30,
+            "name": "Pretzel Bites",
+            "alt": "Small, bite-sized pretzels served with a side of mustard for dipping.",
+            "price": 90.0,
+            "available": true,
+            "categories": "pretzel",
+            "img": "./assets/images/all-item/img-30.png"
+        },
+        {
+            "id": 31,
+            "name": "Salted Caramel Pretzel",
+            "alt": "A soft pretzel drizzled with rich salted caramel and sprinkled with sea salt.",
+            "price": 90.0,
+            "available": true,
+            "categories": "pretzel",
+            "img": "./assets/images/all-item/img-31.png"
+        },
+        {
+            "id": 32,
+            "name": "Jalapeño Cheese Pretzel",
+            "alt": "A soft pretzel topped with melted cheese and spicy jalapeño slices.",
+            "price": 95.0,
+            "available": false,
+            "categories": "pretzel",
+            "img": "./assets/images/all-item/img-32.png"
+        },
+        {
+            "id": 33,
+            "name": "Chocolate-Dipped Pretzel",
+            "alt": "A crispy pretzel half-dipped in smooth, dark chocolate.",
+            "price": 95.0,
+            "available": true,
+            "categories": "pretzel",
+            "img": "./assets/images/all-item/img-33.png"
+        },
+        {
+            "id": 34,
+            "name": "Vanilla Buttercream Cupcake",
+            "alt": "A fluffy vanilla cupcake topped with a swirl of creamy buttercream frosting.",
+            "price": 100.0,
+            "available": true,
+            "categories": "cupcakes",
+            "img": "./assets/images/all-item/img-34.png"
+        },
+        {
+            "id": 35,
+            "name": "Chocolate Fudge Cupcake",
+            "alt": "A rich chocolate cupcake with smooth fudge frosting and chocolate sprinkles.",
+            "price": 100.0,
+            "available": true,
+            "categories": "cupcakes",
+            "img": "./assets/images/all-item/img-35.png"
+        },
+        {
+            "id": 36,
+            "name": "Red Velvet Cupcake",
+            "alt": "A vibrant red velvet cupcake topped with cream cheese frosting and a dash of red sugar.",
+            "price": 105.0,
+            "available": false,
+            "categories": "cupcakes",
+            "img": "./assets/images/all-item/img-36.png"
+        },
+        {
+            "id": 37,
+            "name": "Lemon Meringue Cupcake",
+            "alt": "A zesty lemon cupcake topped with light, toasted meringue.",
+            "price": 105.0,
+            "available": true,
+            "categories": "cupcakes",
+            "img": "./assets/images/all-item/img-37.png"
+        },
+        {
+            "id": 38,
+            "name": "Strawberry Shortcake Cupcake",
+            "alt": "A strawberry cupcake with whipped cream frosting and fresh strawberry slices.",
+            "price": 110.0,
+            "available": true,
+            "categories": "cupcakes",
+            "img": "./assets/images/all-item/img-38.png"
+        },
+        {
+            "id": 39,
+            "name": "Carrot Cake Cupcake",
+            "alt": "A spiced carrot cake cupcake with cream cheese frosting and a sprinkle of walnuts.",
+            "price": 110.0,
+            "available": true,
+            "categories": "cupcakes",
+            "img": "./assets/images/all-item/img-39.png"
+        },
+        {
+            "id": 40,
+            "name": "Baguette",
+            "alt": "A classic French baguette with a crisp crust and soft inside.",
+            "price": 25.5,
+            "available": true,
+            "categories": "bread",
+            "img": "./assets/images/all-item/img-3.png"
+        },
+        {
+            "id": 41,
+            "name": "Ciabatta Bread",
+            "alt": "Rustic ciabatta bread with large airy holes and a golden crust.",
+            "price": 30.0,
+            "available": false,
+            "categories": "bread",
+            "img": "./assets/images/all-item/img-4.png"
+        },
+        {
+            "id": 42,
+            "name": "Pita Bread",
+            "alt": "A stack of fluffy pita bread rounds, perfect for dipping",
+            "price": 30.0,
+            "available": true,
+            "categories": "bread",
+            "img": "./assets/images/all-item/img-5.png",
+            "recommended": true
+        },
+        {
+            "id": 43,
+            "name": "Chocolate Fudge Cake",
+            "alt": "A rich chocolate fudge cake with a smooth ganache topping.",
+            "price": 150.0,
+            "available": true,
+            "categories": "cakes",
+            "img": "./assets/images/all-item/img-40.png"
+        },
+        {
+            "id": 44,
+            "name": "Vanilla Sponge Cake",
+            "alt": "A light vanilla sponge cake with layers of whipped cream and fresh berries.",
+            "price": 130.0,
+            "available": true,
+            "categories": "cakes",
+            "img": "./assets/images/all-item/img-41.png"
+        },
+        {
+            "id": 45,
+            "name": "Red Velvet Cake",
+            "alt": "A vibrant red velvet cake topped with cream cheese frosting and red crumbs.",
+            "price": 160.0,
+            "available": true,
+            "categories": "cakes",
+            "img": "./assets/images/all-item/img-42.png"
+        },
+        {
+            "id": 46,
+            "name": "Lemon Drizzle Cake",
+            "alt": "A tangy lemon drizzle cake with a sugary lemon glaze.",
+            "price": 140.0,
+            "available": true,
+            "categories": "cakes",
+            "img": "./assets/images/all-item/img-43.png"
+        },
+        {
+            "id": 47,
+            "name": "Black Forest Cake",
+            "alt": "A decadent black forest cake with layers of chocolate and cherry filling.",
+            "price": 170.0,
+            "available": true,
+            "categories": "cakes",
+            "img": "./assets/images/all-item/img-44.png"
+        },
+        {
+            "id": 48,
+            "name": "Coffee Walnut Cake",
+            "alt": "A moist coffee cake topped with a creamy coffee frosting and walnuts.",
+            "price": 150.0,
+            "available": true,
+            "categories": "cakes",
+            "img": "./assets/images/all-item/img-45.png"
+        },
+        {
+            "id": 49,
+            "name": "Coconut Cake",
+            "alt": "A light coconut cake with a fluffy coconut frosting and shredded coconut.",
+            "price": 135.0,
+            "available": true,
+            "categories": "cakes",
+            "img": "./assets/images/all-item/img-46.png"
+        },
+        {
+            "id": 50,
+            "name": "Funfetti Birthday Cake",
+            "alt": "A colorful funfetti cake topped with vanilla frosting and rainbow sprinkles.",
+            "price": 140.0,
+            "available": true,
+            "categories": "cakes",
+            "img": "./assets/images/all-item/img-47.png"
+        },
+        {
+            "id": 51,
+            "name": "Tiramisu Cake",
+            "alt": "A tiramisu cake layered with espresso-soaked sponge and mascarpone cream.",
+            "price": 180.0,
+            "available": true,
+            "categories": "cakes",
+            "img": "./assets/images/all-item/img-48.png"
+        },
+        {
+            "id": 52,
+            "name": "Banana Cake",
+            "alt": "A moist banana cake topped with cream cheese frosting and banana slices.",
+            "price": 135.0,
+            "available": true,
+            "categories": "cakes",
+            "img": "./assets/images/all-item/img-49.png"
+        },
+        {
+            "id": 53,
+            "name": "Marble Cake",
+            "alt": "A swirl of vanilla and chocolate in a classic marble cake with chocolate glaze.",
+            "price": 145.0,
+            "available": true,
+            "categories": "cakes",
+            "img": "./assets/images/all-item/img-50.png"
+        },
+        {
+            "id": 54,
+            "name": "Caramel Cake",
+            "alt": "A caramel-flavored cake layered with caramel frosting and drizzled with caramel sauce.",
+            "price": 155.0,
+            "available": true,
+            "categories": "cakes",
+            "img": "./assets/images/all-item/img-51.png"
+        },
+        {
+            "id": 55,
+            "name": "Strawberry Shortcake",
+            "alt": "A light sponge cake with fresh strawberries and whipped cream layers.",
+            "price": 150.0,
+            "available": true,
+            "categories": "cakes",
+            "img": "./assets/images/all-item/img-52.png"
+        },
+        {
+            "id": 56,
+            "name": "Pineapple Upside-Down Cake",
+            "alt": "A classic pineapple upside-down cake with caramelized pineapple and cherries.",
+            "price": 140.0,
+            "available": true,
+            "categories": "cakes",
+            "img": "./assets/images/all-item/img-53.png"
+        },
+        {
+            "id": 57,
+            "name": "Opera Cake",
+            "alt": "A layered opera cake with almond sponge, coffee buttercream, and chocolate ganache.",
+            "price": 190.0,
+            "available": true,
+            "categories": "cakes",
+            "img": "./assets/images/all-item/img-54.png"
+        }
+    ]
+}
